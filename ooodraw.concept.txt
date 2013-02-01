@@ -1,0 +1,7 @@
+DO begin
+  MyProccess([...])
+WHILE NOT end
+
+MyPoccess([my_input[,my_inputs[,...]]])
+  [MyProcesses([...])[,...]]
+  return my_output[my_outputs[,...]]
